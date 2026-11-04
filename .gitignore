@@ -1,0 +1,8 @@
+# Ignorar carpetas de datos completas
+data/*
+results/*
+logs/*
+
+# Ignorar entornos virtuales y cachés
+.venv/
+.DS_Store
