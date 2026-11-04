@@ -2,7 +2,7 @@
 
 - Estudiante: Ángela del Rocío De La Rosa Ruiz
 - Lenguaje elegido: Python (versión 3.12)
-- Repositorio GitHub: 
+- Repositorio GitHub: https://github.com/angderui/project_PyDESeq2_BAG_TCGA-BRCA.git
 
 - Instrucciones:
 1. Crear el entorno:
